@@ -41,11 +41,11 @@
 //  ----------------------------------------------------------
 
 
-#include <TypeIIRMLPosition.h>
-#include <TypeIIRMLMath.h>
-#include <TypeIIRMLPolynomial.h>
-#include <RMLPositionOutputParameters.h>
-#include <RMLPositionInputParameters.h>
+#include <ros_reflexxes/TypeIIRMLPosition.h>
+#include <ros_reflexxes/TypeIIRMLMath.h>
+#include <ros_reflexxes/TypeIIRMLPolynomial.h>
+#include <ros_reflexxes/RMLPositionOutputParameters.h>
+#include <ros_reflexxes/RMLPositionInputParameters.h>
 
 
 

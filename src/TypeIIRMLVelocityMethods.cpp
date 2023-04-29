@@ -41,14 +41,14 @@
 //  ----------------------------------------------------------
 
 
-#include <TypeIIRMLVelocity.h>
-#include <TypeIIRMLMath.h>
-#include <TypeIIRMLDecisions.h>
-#include <RMLVelocityInputParameters.h>
-#include <RMLVelocityOutputParameters.h>
-#include <RMLVector.h>
-#include <ReflexxesAPI.h>
-#include <RMLVelocityFlags.h>
+#include <ros_reflexxes/TypeIIRMLVelocity.h>
+#include <ros_reflexxes/TypeIIRMLMath.h>
+#include <ros_reflexxes/TypeIIRMLDecisions.h>
+#include <ros_reflexxes/RMLVelocityInputParameters.h>
+#include <ros_reflexxes/RMLVelocityOutputParameters.h>
+#include <ros_reflexxes/RMLVector.h>
+#include <ros_reflexxes/ReflexxesAPI.h>
+#include <ros_reflexxes/RMLVelocityFlags.h>
 #include <math.h>
 
 

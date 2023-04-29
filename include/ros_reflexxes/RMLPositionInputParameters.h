@@ -50,8 +50,8 @@
 #define __RMLPositionInputParameters__
 
 
-#include <RMLInputParameters.h>
-#include <RMLVector.h>
+#include <ros_reflexxes/RMLInputParameters.h>
+#include <ros_reflexxes/RMLVector.h>
 #include <string.h>
 #include <math.h>
 

@@ -43,8 +43,8 @@
 
 
 
-#include <TypeIIRMLStep1Profiles.h>
-#include <TypeIIRMLMath.h>
+#include <ros_reflexxes/TypeIIRMLStep1Profiles.h>
+#include <ros_reflexxes/TypeIIRMLMath.h>
 #include <math.h>
 
 

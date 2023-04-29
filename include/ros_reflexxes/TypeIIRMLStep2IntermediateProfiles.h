@@ -49,8 +49,8 @@
 #define __TypeIIRMLStep2IntermediateTimeProfiles__
 
 
-#include <TypeIIRMLPolynomial.h>
-#include <TypeIIRMLMath.h>
+#include <ros_reflexxes/TypeIIRMLPolynomial.h>
+#include <ros_reflexxes/TypeIIRMLMath.h>
 
 
 namespace TypeIIRMLMath

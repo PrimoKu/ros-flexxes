@@ -53,7 +53,7 @@
 #define __TypeIIRMLStep1Profiles__
 
 
-#include <TypeIIRMLMath.h>
+#include <ros_reflexxes/TypeIIRMLMath.h>
 
 
 namespace TypeIIRMLMath

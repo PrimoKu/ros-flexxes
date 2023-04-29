@@ -56,7 +56,7 @@
 #define __TypeIIRMLDecisionTree2__
 
 
-#include <TypeIIRMLPolynomial.h>
+#include <ros_reflexxes/TypeIIRMLPolynomial.h>
 
 
 namespace TypeIIRMLMath

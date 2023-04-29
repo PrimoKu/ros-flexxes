@@ -49,9 +49,9 @@
 #define __TypeIIRMLStep2WithoutSynchronization__
 
 
-#include <TypeIIRMLMath.h>
-#include <TypeIIRMLStep1Profiles.h>
-#include <TypeIIRMLPolynomial.h>
+#include <ros_reflexxes/TypeIIRMLMath.h>
+#include <ros_reflexxes/TypeIIRMLStep1Profiles.h>
+#include <ros_reflexxes/TypeIIRMLPolynomial.h>
 
 
 namespace TypeIIRMLMath

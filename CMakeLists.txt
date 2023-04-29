@@ -9,7 +9,7 @@ endif()
 find_package(ament_cmake REQUIRED)
 
 include_directories(include)
-add_library(ReflexxesTypeII SHARED 
+add_library(reflexxes SHARED 
   src/ReflexxesAPI.cpp src/TypeIIRMLCalculatePositionalExtrems.cpp src/TypeIIRMLDecisions.cpp 
   src/TypeIIRMLDecisionTree1A.cpp src/TypeIIRMLDecisionTree1B.cpp src/TypeIIRMLDecisionTree1C.cpp
   src/TypeIIRMLDecisionTree2.cpp src/TypeIIRMLFallBackStrategy.cpp src/TypeIIRMLIsPhaseSynchronizationPossible.cpp
@@ -21,7 +21,10 @@ add_library(ReflexxesTypeII SHARED
 )
 
 install(DIRECTORY include/ DESTINATION include)
-install(TARGETS ReflexxesTypeII LIBRARY DESTINATION lib)
+install(TARGETS reflexxes LIBRARY DESTINATION lib)
+
+ament_export_include_directories(include)
+ament_export_libraries(reflexxes)
 
 if(BUILD_TESTING)
   find_package(ament_lint_auto REQUIRED)

@@ -50,7 +50,7 @@
 #define __RMLOutputParameters__
 
 
-#include <RMLVector.h>
+#include <ros_reflexxes/RMLVector.h>
 #include <string.h>
 
 

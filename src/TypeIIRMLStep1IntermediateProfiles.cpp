@@ -43,7 +43,7 @@
 
 
 
-#include <TypeIIRMLStep1IntermediateProfiles.h>
+#include <ros_reflexxes/TypeIIRMLStep1IntermediateProfiles.h>
 
 
 using namespace TypeIIRMLMath;

@@ -41,11 +41,11 @@
 //  ----------------------------------------------------------
 
 
-#include <TypeIIRMLPosition.h>
-#include <TypeIIRMLMath.h>
-#include <RMLPositionInputParameters.h>
-#include <RMLPositionOutputParameters.h>
-#include <ReflexxesAPI.h>
+#include <ros_reflexxes/TypeIIRMLPosition.h>
+#include <ros_reflexxes/TypeIIRMLMath.h>
+#include <ros_reflexxes/RMLPositionInputParameters.h>
+#include <ros_reflexxes/RMLPositionOutputParameters.h>
+#include <ros_reflexxes/ReflexxesAPI.h>
 
 
 //*******************************************************************************************

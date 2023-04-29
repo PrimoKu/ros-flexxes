@@ -41,9 +41,9 @@
 //  ----------------------------------------------------------
 
 
-#include <TypeIIRMLVelocity.h>
-#include <RMLVelocityInputParameters.h>
-#include <RMLVelocityOutputParameters.h>
+#include <ros_reflexxes/TypeIIRMLVelocity.h>
+#include <ros_reflexxes/RMLVelocityInputParameters.h>
+#include <ros_reflexxes/RMLVelocityOutputParameters.h>
 
 
 using namespace TypeIIRMLMath;

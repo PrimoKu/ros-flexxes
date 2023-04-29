@@ -48,7 +48,7 @@
 #define __RMLVelocityFlags__
 
 
-#include <RMLFlags.h>
+#include <ros_reflexxes/RMLFlags.h>
 
 
 //  ---------------------- Doxygen info ----------------------

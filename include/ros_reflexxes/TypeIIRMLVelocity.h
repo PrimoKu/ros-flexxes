@@ -50,11 +50,11 @@
 #define __TypeIIRMLVelocity__
 
 
-#include <RMLVelocityInputParameters.h>
-#include <RMLVelocityOutputParameters.h>
-#include <RMLVector.h>
-#include <TypeIIRMLPolynomial.h>
-#include <RMLVelocityFlags.h>
+#include <ros_reflexxes/RMLVelocityInputParameters.h>
+#include <ros_reflexxes/RMLVelocityOutputParameters.h>
+#include <ros_reflexxes/RMLVector.h>
+#include <ros_reflexxes/TypeIIRMLPolynomial.h>
+#include <ros_reflexxes/RMLVelocityFlags.h>
 
 
 

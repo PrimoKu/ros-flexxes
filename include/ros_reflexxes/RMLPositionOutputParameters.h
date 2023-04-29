@@ -50,7 +50,7 @@
 #define __RMLPositionOutputParameters__
 
 
-#include <RMLOutputParameters.h>
+#include <ros_reflexxes/RMLOutputParameters.h>
 
 
 //  ---------------------- Doxygen info ----------------------

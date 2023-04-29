@@ -47,7 +47,7 @@
 #define __TypeIIRMLPolynomial__
 
 
-#include <TypeIIRMLMath.h>
+#include <ros_reflexxes/TypeIIRMLMath.h>
 
 namespace TypeIIRMLMath
 {

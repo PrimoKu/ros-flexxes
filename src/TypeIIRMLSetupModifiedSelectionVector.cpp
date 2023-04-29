@@ -41,9 +41,9 @@
 //  ----------------------------------------------------------
 
 
-#include <TypeIIRMLPosition.h>
-#include <RMLPositionInputParameters.h>
-#include <RMLVector.h>
+#include <ros_reflexxes/TypeIIRMLPosition.h>
+#include <ros_reflexxes/RMLPositionInputParameters.h>
+#include <ros_reflexxes/RMLVector.h>
 
 
 //****************************************************************************
